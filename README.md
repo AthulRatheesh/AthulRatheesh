@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about AI...specifically NLP
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : ratheeshathul6@gmail.com
+- 📫 How to reach me : lucianstorm86@gmail.com
 
 <!---
 AthulRatheesh/AthulRatheesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
