@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AthulRatheesh
-- 👀 I’m interested in learning about AI...specifically NLP
+- 👀 I’m interested in learning about AI, Data Analytics and Natural Language Processing 
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : lucianstorm86@gmail.com
